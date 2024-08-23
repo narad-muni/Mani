@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">flowbite</string>
+    <string name="title_activity_main">flowbite</string>
+    <string name="package_name">com.mani.saumil</string>
+    <string name="custom_url_scheme">com.mani.saumil</string>
+</resources>
